@@ -15,6 +15,10 @@ Factorize the polynomial:
 z^2 + a^2 = (z + ia)(z - ia)
 ```
 
+```math
+z^3 - 3z^2 + z + 5 = (z + 1)(z - 2 - i)(z - 2 + i)
+```
+
 ## 3. Solving Quadratic Equations Involving Complex Numbers  
 Solve the equation:  
 ```math
